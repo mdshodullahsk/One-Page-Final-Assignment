@@ -1,0 +1,158 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Section */
+.marzin {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.cover {
+    margin-top: 0%;
+    padding-top: 0%;
+    background-size: cover;
+    background-image: url(/image/cover-photo.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    text-justify: auto;
+    text-align: center;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    color: white;
+}
+.cover h1 {
+    font-size: 50px;
+}
+.first-heading-two {
+    display: inline-block;
+    margin: 0%;
+}
+.cover p {
+    font-size: 15px;
+}
+.first-heading {
+padding-top: 190px;
+margin-bottom: 0%;
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 176px;
+    padding: 10px 25px;
+    font-size: 20px;
+    color: white;
+    background-color: #ff5959;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+/* setion two donate */
+.donate-today {
+    text-align: center;
+}
+.donate-today h1 {
+    padding-top: 140px;
+}
+.donate-today span {
+    margin: 30px 5px;
+    padding: 20px 15px;
+    background-color: #fafafa;
+}
+#brdr {
+    border: 1px solid #ff5959;
+    border-radius: 2px;
+    color: #ff5959;
+    }
+.donate-today P {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 30px;
+}
+#amount {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color: none;
+}
+#amount input {
+    text-align: center;
+    border: none;
+}
+hr {
+    width: 50%;
+}
+/* Section three */
+.our-plane {
+    text-align: center;
+}
+.our-plane p {
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-bottom: 30px;
+}
+.sec-three {
+    display: flex;
+}
+
+.icon {
+    width: 33.33%;
+    background-color: #ffeeee;
+    margin-right: 20px;
+    padding: 20px;
+}
+#rigt-mrgn {
+    margin-right: 0%;
+}
+
+/* Section Four */
+#sec-four {
+    display: flex;
+}
+.half {
+    /* padding: 40px; */
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 50%;
+}
+.half img {
+    width: 100%;
+}
+#pera-align {
+    padding-right: 30px;
+}
+/* Section Five */
+
+#pera-align-scn {
+    padding-left: 30px;
+}
+
+/* Section Six */
+#sec-six {
+    text-align: center;
+}
+#sec-six p {
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#sec-six form {
+    display: inline-block;
+    background-color: #fff4d6;
+    padding: 30px 70px;
+    margin-bottom: 40px;
+}
+#subscribe {
+    background-color: #ff5959;
+    border: none;
+    padding: 4px 20px;
+    border-radius: 2px;
+    color: white;
+    
+}
+/* Footer Section */
+footer {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #0b0d17;
+    color: white;
+
+}
